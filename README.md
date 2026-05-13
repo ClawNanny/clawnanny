@@ -2,19 +2,20 @@
 
 > agentic shenanigans, with adult supervision, for normal people
 
-ClawNanny is a desktop application for Windows that runs entirely on your own PC.  It puts a friendly Web UI in front of one or more agent backends (currently OpenClaw; Hermes-Agent in development), so day-to-day users can drive AI agents without learning a terminal, an SDK, or a config file format.
+ClawNanny is a desktop application for Windows or Mac that runs entirely on your own local machine.  It puts a friendly Web UI in front of one or more agent backends (currently OpenClaw and Hermes-Agent with II-Agent in development), so day-to-day users can drive AI agents without learning a terminal, an SDK, or a config file format.
 
 ## Status
 
-**Alpha &mdash; friends-and-family build.**  Things will change.  Feedback welcome.
+**Alpha &mdash; friends-and-family build**  Things will change.  Feedback welcome.
 
 ## What you get
 
-- A unified Web UI for chatting with one or more AI agents.
-- Session history that survives across runs, with search, tagging, and pattern analysis.
-- A skills / capability layer so you can teach the agent reusable workflows.
-- Telemetry and cost tracking per conversation, per model, per day.
-- Local-first: your conversations stay on your PC.  No cloud account required to run the app.
+- A unified Web UI for chatting with one or more AI agents
+- Session history that survives across runs, across agents, with search, tagging, and pattern analysis
+- A skills + capability layer so you can teach the agent reusable workflows
+- A capability designer takes your workflow-problem-solution idea and materializes a task sequence with skills and tools.
+- Telemetry and cost tracking per conversation, per model, per day
+- Local-first: Your conversations stay on your PC.  No cloud account is required to run the app locally.
 
 ## Download
 
