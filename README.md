@@ -1,6 +1,6 @@
 # ClawNanny
 
-> ClawNanny unifies siloed, open-source agents into a common Web UI to share an agentic future with normal people.
+> agentic shenanigans, with adult supervision, for normal people
 
 ClawNanny is a desktop application for Windows that runs entirely on your own PC.  It puts a friendly Web UI in front of one or more agent backends (currently OpenClaw; Hermes-Agent in development), so day-to-day users can drive AI agents without learning a terminal, an SDK, or a config file format.
 
