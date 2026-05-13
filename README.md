@@ -2,7 +2,7 @@
 
 > agentic shenanigans, with adult supervision, for normal people
 
-ClawNanny is a desktop application for Windows or Mac that runs entirely on your own local machine.  It puts a friendly Web UI in front of one or more agent backends (currently OpenClaw and Hermes-Agent with II-Agent in development), so day-to-day users can drive AI agents without learning a terminal, an SDK, or a config file format.
+ClawNanny is a desktop application for Windows or Mac that runs entirely on your own local machine.  It puts a friendly Web UI in front of one or more agent backends (currently OpenClaw and Hermes-Agent with II-Agent in development).  Day-to-day users can drive AI agents without learning about terminals or SDKs or config file formats.
 
 ## Status
 
