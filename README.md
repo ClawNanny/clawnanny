@@ -27,7 +27,7 @@ A copy of each release is also attached to this repo's [Releases](https://github
 
 ## License
 
-ClawNanny is **proprietary freeware**&nbsp; It's free to download and use (with a specific commitment).&nbsp; The source code is **not** open.  See [LICENSE](LICENSE) for full terms.
+ClawNanny is **proprietary freeware**.&nbsp; It's free to download and use (with a specific commitment).&nbsp; The source code is **not** open.  See [LICENSE](LICENSE) for full terms.
 
 ## Why a closed-source repo on GitHub?
 
