@@ -1,7 +1,7 @@
 # ClawNanny&trade;
 *Agentic shenanigans, with adult supervision, for normal people*
 
-ClawNanny is a desktop application for Windows or macOS that runs entirely on your own computer.&nbsp;  It puts a single, friendly web UI in front of one or more agent backends.&nbsp;  Day-to-day users can drive intelligent agents without learning about terminals, CLIs, SDKs, cloning repos, or config-file formats.
+ClawNanny is a desktop application for Windows or macOS that runs entirely on your own computer.&nbsp;  It puts a single, friendly web UI in front of one or more agent backends.&nbsp;  Day-to-day users can drive intelligent agents without learning about terminals, CLIs, SDKs, cloning repos, or config-file formats.&nbsp; ClawNanny creates an opportunity to build trust in agentic intelligence.
 
 Agent backends supported in this release:&nbsp; **OpenClaw** and **Claude Code** (Anthropic subscription required).&nbsp;  **Hermes-Agent** and **II-Agent** are in development.
 
