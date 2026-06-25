@@ -30,7 +30,7 @@ Local-first by default:&nbsp; Your conversations stay on your computer.&nbsp;  N
 
 ## Download
 
-If you arrived via clawnanny.com, the recommended path is the [client onboarding](https://ClawNanny.com/Client_onboarding) form.&nbsp; Once your request is accepted, you'll be guided to the same installer and through the first-run setup.
+The recommended path is the [client onboarding](https://ClawNanny.com/Client_onboarding) form.&nbsp; Once your request is accepted, you'll be guided to the installer and through the first-run setup.
 
 The latest installer is attached to this repo's [Releases](https://github.com/ClawNanny/clawnanny/releases) tab.&nbsp;  Each release ships a signed `.exe` for Windows and a signed, notarized `.dmg` for macOS.
 
