@@ -1,16 +1,18 @@
 # ClawNanny
+&mdash; agentic shenanigans, with adult supervision, for normal people
 
-agentic shenanigans, with adult supervision, for normal people
-
-ClawNanny is a desktop application for Windows or Mac that runs entirely on your own local machine.  It puts a friendly Web UI in front of one or more agent backends (currently OpenClaw and Hermes-Agent with II-Agent in development).  Day-to-day users can drive AI agents without learning about terminals or SDKs or config file formats.  ClawNanny is integrated with an [**Agent User's Guide for Normies**](https://ClawNanny.com/MD_doc?file=/static/docs/ClawNanny_Guide_Introduction.md) and [**Glossary**](https://ClawNanny.com/MD_doc?file=/static/docs/ClawNanny_Glossary.md).
+ClawNanny is a desktop application for Windows or MacOS that runs entirely on your own local machine.&nbsp;  It puts a friendly Web UI in front of one or more agent backends (currently OpenClaw and Hermes-Agent with II-Agent in development).&nbsp;  Day-to-day users can drive intelligent agents without learning about terminals or SDKs or cloning repos or config file formats.&nbsp;  ClawNanny is integrated with an [**Agent User's Guide for Normies**](https://ClawNanny.com/MD_doc?file=/static/docs/ClawNanny_Guide_Introduction.md) and a [**Glossary**](https://ClawNanny.com/MD_doc?file=/static/docs/ClawNanny_Glossary.md).
 
 ## Status
 
-**Beta &mdash; a friends-and-family build**&nbsp; &nbsp; We're still sweeping for bugs in the dark corners.&nbsp;  Things will change.&nbsp; We welcome your [feedback](https://ClawNanny.com/Feedback).
+**Beta &mdash; a friends-and-family build**&nbsp; 
+
+We're still sweeping for bugs in the dark corners.&nbsp;  Things will change.&nbsp; We welcome your [feedback](https://ClawNanny.com/Feedback).
 
 ## What you get
 
 - A unified Web UI for interacting with one or more intelligent agents
+- A self-help learning environment that moves at your pace
 - Session history that survives across runs, across agents, with search, tagging, and pattern analysis
 - A skills + capability layer so you can teach the agent reusable workflows ... and it can teach you
 - ["Desi", ClawNanny's capability designer](https://ClawNanny.com/Capability_designer), takes your workflow-problem-solution idea and materializes a task sequence with skills and tools.
