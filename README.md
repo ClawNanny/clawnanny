@@ -1,7 +1,9 @@
 # ClawNanny&trade;
 *Agentic shenanigans, with adult supervision, for normal people*
 
-ClawNanny is a desktop application for Windows or macOS that runs entirely on your own computer.&nbsp;  It puts a single, friendly web UI in front of one or more agent backends.&nbsp;  Day-to-day users can drive intelligent agents without learning about terminals, CLIs, SDKs, cloning repos, or config-file formats.&nbsp; ClawNanny creates an opportunity to build trust in agentic intelligence as a co-worker who onboards you with training and ongoing support.
+ClawNanny is a desktop application for Windows or macOS that runs entirely on your own computer.&nbsp;  It puts a single, friendly web UI in front of one or more agent backends.&nbsp;  Day-to-day users can drive intelligent agents without learning about terminals, CLIs, SDKs, cloning repos, or config-file formats.&nbsp; 
+
+ClawNanny creates an opportunity to build trust in agentic intelligence as a co-worker who onboards you with training and ongoing support.
 
 Agent backends supported in this release:&nbsp; **OpenClaw** and **Claude Code** (Anthropic subscription required).&nbsp;  **Hermes-Agent** and **II-Agent** are in development.
 
@@ -56,11 +58,13 @@ The source code is **not** open.&nbsp;  See [LICENSE](LICENSE) for full terms.
 
 ## Why a closed-source repo on GitHub?
 
-1.&nbsp; **Open source invites everyone to change the source code.** &nbsp;  Open System Applications LLC is a small team.&nbsp; We can't sustain the review and triage overhead of a fully-public source tree.&nbsp;  That's not where we want to focus our attention.
-2.&nbsp; **Releases hosting.** &nbsp;  GitHub Releases is a free, fast, worldwide CDN for the installer.&nbsp;  Hosting downloadable builds here means downloads stay fast even during traffic spikes, and every release has a stable URL.
+1.&nbsp; **Open source invites everyone to change the source code.** &nbsp;  [**Open System Applications LLC**](https://ClawNanny.com/MD_doc?file=/static/docs/OpenSystemApps.md) is a small team.&nbsp; We can't sustain the review and triage overhead of a fully-public source tree.&nbsp;  That's not where we want to focus our attention.<BR/>
+2.&nbsp; **Releases hosting.** &nbsp;  GitHub Releases is a free, fast, worldwide CDN for the installer.&nbsp;  Hosting downloadable builds here means downloads stay fast even during traffic spikes, and every release has a stable URL.<BR/>
 3.&nbsp; **A real issue tracker and discussion forum.** &nbsp;  You can [report bugs and submit change requests](https://ClawNanny.com/Change_request), and you're free to discuss ClawNanny on [GitHub Discussions](https://github.com/ClawNanny/clawnanny/discussions).
 
-The application source itself is not published.&nbsp;  ClawNanny depends on a number of excellent open-source projects (OpenClaw, Hermes-Agent, and others).&nbsp; Credit and links to those projects appear in the application's About dialog.
+The application source itself is not published.&nbsp;  
+
+ClawNanny depends on a number of excellent open-source projects (OpenClaw, Hermes-Agent, and others).&nbsp; Credit and links to those projects appear in the application's About dialog.
 
 ## Support
 
