@@ -1,11 +1,13 @@
 # ClawNanny&trade;
 *Agentic shenanigans, with adult supervision, for normal people*
 
-ClawNanny is a desktop application for Windows or macOS that runs entirely on your own computer.&nbsp;  It puts a single, friendly web UI in front of one or more agent backends.&nbsp;  Day-to-day users can drive intelligent agents without learning about terminals, CLIs, SDKs, cloning repos, or config-file formats.&nbsp; ClawNanny creates an opportunity to build trust in agentic intelligence.
+ClawNanny is a desktop application for Windows or macOS that runs entirely on your own computer.&nbsp;  It puts a single, friendly web UI in front of one or more agent backends.&nbsp;  Day-to-day users can drive intelligent agents without learning about terminals, CLIs, SDKs, cloning repos, or config-file formats.&nbsp; ClawNanny creates an opportunity to build trust in agentic intelligence as a co-worker who onboards you with training and ongoing support.
 
 Agent backends supported in this release:&nbsp; **OpenClaw** and **Claude Code** (Anthropic subscription required).&nbsp;  **Hermes-Agent** and **II-Agent** are in development.
 
-For a guided introduction, see [Baby Steps](https://ClawNanny.com/Baby_steps), a page of guided exercises you'll see right after setting up the app, the [Agent User's Guide for Normies](https://ClawNanny.com/MD_doc?file=/static/docs/ClawNanny_Guide_Introduction.md) and the [Glossary](https://ClawNanny.com/MD_doc?file=/static/docs/ClawNanny_Glossary.md).
+For a guided introduction, see [Baby Steps](https://ClawNanny.com/Baby_steps), a page of guided exercises you'll see right after setting up the app.
+
+The [Agent User's Guide for Normies](https://ClawNanny.com/MD_doc?file=/static/docs/ClawNanny_Guide_Introduction.md) and the [Glossary](https://ClawNanny.com/MD_doc?file=/static/docs/ClawNanny_Glossary.md) are integrated with the application.
 
 ## Status
 
