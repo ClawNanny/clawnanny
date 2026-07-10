@@ -1,0 +1,36 @@
+ClawNanny
+
+Copyright (c) 2026 Open System Applications LLC. All rights reserved.
+
+ClawNanny is proprietary software of Open System Applications LLC, a limited-liability company 
+registered in the State of Washington. 
+
+It is NOT open-source software. The source code, object code, prompts, business rules, and algorithms 
+are the confidential trade secrets of Open System Applications LLC.
+
+No license is granted by this file. This repository hosts public project materials 
+(documentation, security policy, and links to signed installers).  
+
+Possession of, or access to, these materials does not grant any right to use, copy, modify, 
+distribute, host, decompile, disassemble, or reverse-engineer the ClawNanny software.
+
+Your use of ClawNanny is governed by the edition-specific License and Terms-of-Service Agreement 
+you accept when you install and run the software. Public reference copies of the current agreements 
+are kept in this repository:
+
+  Community edition (no fee, pay-it-forward mentoring covenant):
+    https://github.com/ClawNanny/clawnanny/blob/main/LICENSES/ClawNanny_license_Community_edition.md
+
+  Pro edition (license fee, no mentoring covenant):
+    https://github.com/ClawNanny/clawnanny/blob/main/LICENSES/ClawNanny_license_Pro_edition.md
+
+  Enterprise edition (per-seat annual license):
+    Available on request. Contact admin@ClawNanny.com.
+
+These reference copies are provided for convenience. The operative agreement is the one you accept 
+inside the installed ClawNanny application.  If a reference copy and the in-app agreement ever differ, 
+the in-app agreement governs.
+
+Trademarks: "ClawNanny" and the ClawNanny logo are trademarks of Open System Applications LLC.
+
+Contact: admin@ClawNanny.com
