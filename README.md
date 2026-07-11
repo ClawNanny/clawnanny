@@ -58,8 +58,8 @@ The source code is **not** open.&nbsp;  See [LICENSE](LICENSE) for full terms.
 
 ## Why a closed-source repo on GitHub?
 
-1.&nbsp; **Open source invites everyone to change the source code.** &nbsp;  [**Open System Applications LLC**](https://ClawNanny.com/MD_doc?file=/static/docs/OpenSystemApps.md) is a small team.&nbsp; We can't sustain the review and triage overhead of a fully-public source tree.&nbsp;  That's not where we want to focus our attention.<BR/>
-2.&nbsp; **Releases hosting.** &nbsp;  GitHub Releases is a free, fast, worldwide CDN for the installer.&nbsp;  Hosting downloadable builds here means downloads stay fast even during traffic spikes, and every release has a stable URL.<BR/>
+1.&nbsp; **Open source invites everyone to change the source code.** &nbsp;  [**Open System Applications LLC**](https://ClawNanny.com/MD_doc?file=/static/docs/OpenSystemApps.md) is a small team.&nbsp; We can't sustain the review and triage overhead of a fully-public source tree.&nbsp;  That's not where we want to focus our attention.
+2.&nbsp; **Releases hosting.** &nbsp;  GitHub Releases is a free, fast, worldwide CDN for the installer.&nbsp;  Hosting downloadable builds here means downloads stay fast even during traffic spikes, and every release has a stable URL.
 3.&nbsp; **A real issue tracker and discussion forum.** &nbsp;  You can [report bugs and submit change requests](https://ClawNanny.com/Change_request), and you're free to discuss ClawNanny on [GitHub Discussions](https://github.com/ClawNanny/clawnanny/discussions).
 
 The application source itself is not published.&nbsp;  
